@@ -29,6 +29,11 @@ export default function About() {
         avatar="https://raw.githubusercontent.com/gatsbyjs/gatsby/master/docs/docs/tutorial/part-two/pexels-guilherme-almeida-1858175.jpg"
         excerpt="I'm Daniela Dewitt. I also think Jas is amazing. I regularly get envious thinking about her great charisma!"
       />
+      <User
+        username="Alexander"
+        avatar="https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/alex-2--tojpeg_1588061661576_x1.jpg"
+        excerpt="I'm Alex. I am the lucky boyfriend of Jas. I love her more than anything in the world."
+      />
     </Container>
   )
 }
